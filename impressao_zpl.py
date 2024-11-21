@@ -1,3 +1,4 @@
+# type: ignore
 import win32print
 import random
 import string
